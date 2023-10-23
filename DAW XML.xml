@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DAW>
+  
+  <primerCurs>
+    <assignatures>
+        
+        <assignatura codi="0373">
+          <nom>Llenguatges de marques i sistemes de gestió d'informació</nom>
+          <horesSemana>3</horesSemana>
+          <horesAnuals>96</horesAnuals>
+        </assignatura>
+        
+        <assignatura codi="0483">
+          <nom>Sistemes informàtics</nom>
+          <horesSemana>5</horesSemana>
+          <horesAnuals>160</horesAnuals>
+        </assignatura>
+        
+        <assignatura codi="0484">
+          <nom>Bases de Dades</nom>
+          <horesSemana>5</horesSemana>
+          <horesAnuals>160</horesAnuals>
+        </assignatura>
+        
+        <assignatura codi="0485">
+          <nom>Programació</nom>
+          <horesSemana>8</horesSemana>
+          <horesAnuals>256</horesAnuals>
+        </assignatura>
+        
+        <assignatura codi="0487">
+          <nom>Entorns de desenrotllament</nom>
+          <horesSemana>3</horesSemana>
+          <horesAnuals>96</horesAnuals>
+        </assignatura>
+        
+        <assignatura codi="0617">
+          <nom>Formació i Orientació Laboral</nom>
+          <horesSemana>3</horesSemana>
+          <horesAnuals>96</horesAnuals>
+        </assignatura>
+        
+        <assignatura codi="CV0003">
+          <nom>Anglés Tècnic I-S</nom>
+          <horesSemana>3</horesSemana>
+          <horesAnuals>96</horesAnuals>
+        </assignatura>
+
+        <horesTotals>960</horesTotals>
+        
+    </asssignatures>
+  </primerCurs>
+
+  
+  <segonCurs>
+     <assignatures>
+        
+        <assignatura codi="0612">
+          <nom>Desenrotllament web en entorn client</nom>
+          <horesSemana>7</horesSemana>
+          <horesAnuals>140</horesAnuals>
+        </assignatura>
+        
+        <assignatura codi="0613">
+          <nom>Desenrotllament web en entorn servidor</nom>
+          <horesSemana>8</horesSemana>
+          <horesAnuals>160</horesAnuals>
+        </assignatura>
+        
+        <assignatura codi="0614">
+          <nom>Desplegament d'aplicacions web</nom>
+          <horesSemana>4</horesSemana>
+          <horesAnuals>80</horesAnuals>
+        </assignatura>
+        
+        <assignatura codi="0615">
+          <nom>Disseny d'interfícies web</nom>
+          <horesSemana>6</horesSemana>
+          <horesAnuals>120</horesAnuals>
+        </assignatura>
+        
+        <assignatura codi="0618">
+          <nom>Empresa i iniciativa emprenedora</nom>
+          <horesSemana>3</horesSemana>
+          <horesAnuals>60</horesAnuals>
+        </assignatura>
+        
+        <assignatura codi="CV0004">
+          <nom>Anglés Tècnic II-S</nom>
+          <horesSemana>2</horesSemana>
+          <horesAnuals>40</horesAnuals>
+        </assignatura>
+        
+        <assignatura codi="0616">
+          <nom>Projecte de Desenrotllament d'aplicacions web</nom>
+          <horesAnuals>40</horesAnuals>
+        </assignatura>
+        
+        <assignatura codi="0619">
+          <nom>Formació en Centres de Treball</nom>
+          <horesAnuals>400</horesAnuals>
+        </assignatura>
+
+        <horesTotals>1040</horesTotals>
+        
+    </asssignatures>
+  </segonCurs>
+  
+</DAW>
